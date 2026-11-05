@@ -1,0 +1,30 @@
+Parking boundary review — White Hall
+
+OSM ID: way/234637890
+Imported OBJECTID: 77
+OSM classification: surface parking
+Operator: Kent State University
+
+Observed issue:
+The displayed boundary appears to overlap White Hall.
+The parking surface north of White Hall appears to lack a boundary.
+
+Status:
+Needs comparison with official campus parking map and dated imagery.
+No geometry changes made.
+
+Area north of White Hall
+Decision: Do not add as active parking in the initial dataset.
+Evidence: Kent State's East Main Street construction article,
+updated February 27, 2026, describes the space in front of
+White Hall as construction staging and future north lawn.
+Limitation: Exact current site conditions have not been field-verified.
+
+Southern R16 lot
+Decision: Retain as a parking candidate.
+Evidence: Official campus parking map and Concept3D reference points.
+
+OSM way/234637890
+Decision: Needs verification; do not include in scoring yet.
+Issue: Boundary appears to overlap White Hall.
+https://www.kent.edu/today/news/roundabout-way-east-main-street-construction-begin-kent-campus
